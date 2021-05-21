@@ -8,7 +8,7 @@
   </a>
 </p>
 
-> This is ReactNative chat that is using websockets and GraphQl Api
+> This is ReactNative chat that is using websockets and GraphQL API
 
 ## Install
 
