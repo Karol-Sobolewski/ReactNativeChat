@@ -9,6 +9,7 @@
 </p>
 
 > This is ReactNative chat that is using websockets and GraphQL API
+### 🏠 [Homepage](https://expo.io/@carolus92/projects/ReactNativeChat)
 
 ## Install
 
